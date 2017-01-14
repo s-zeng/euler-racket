@@ -1,7 +1,7 @@
 # euler-racket
 A collection of Project Euler solutions written in Racket/Scheme
 
-This is here as a reference, and admittedly there might be some shoddy code here - Racket was my first programming language and these Project Euler problems were the first programming problems I solved.
+This is here as a reference, and admittedly there might be some shoddy code here - Racket was my first programming language and these Project Euler problems were some of my earliest experiences with programming.
 
 Feel free to make whatever use you can out of these.
 
