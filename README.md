@@ -1,4 +1,5 @@
 # euler-racket
+![My Project Euler profile](https://projecteuler.net/profile/kronicmage.png)
 A collection of Project Euler solutions written in Racket/Scheme
 
 This is here as a reference, and admittedly there might be some shoddy/incomplete code here - Racket was my first programming language and these Project Euler problems were some of my earliest experiences with programming.
