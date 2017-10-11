@@ -10,3 +10,5 @@ Feel free to make whatever use you can out of these.
 Some of these may have HackerRank functions associated with them - these were for HackerRank's project euler submissions where the problems were generalized to any input. No need to copy those for simple project euler solutions.
 
 No external or internal libraries were used.
+
+Racket is cancer.
